@@ -1,0 +1,14 @@
+.card{
+    width:200px;
+    float:left;
+    margin-right:8px
+}
+.card-content{
+    height: 130px;
+}
+
+.card-container{
+width:200;
+float:"left";
+margin-right:8
+}

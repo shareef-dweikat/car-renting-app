@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.button-margin{
+  margin-right:8px
+} 
+.cars-list {
+  float: right;
+  width: 95.00%;
+ 
+}
+.left-menu {
+  float: left;
+  width: 5.00%;
+  margin-top: 8px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+

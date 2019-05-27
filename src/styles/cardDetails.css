@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+  .button-margin{
+    margin-right:8px
+  } 
+  .box-buttons {
+    float: left;
+    width: 66.66%;
+    margin-top: 16px
+  }
+  .box {
+    float: left;
+    width: 33.33%;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+ 
