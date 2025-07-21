@@ -10,7 +10,7 @@
     "react-popup": "^0.10.0",
     "react-redux": "^7.0.3",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-toolbox": "^2.0.0-beta.13",
     "reactjs-popup": "^1.4.0",
     "redux": "^4.0.1",
